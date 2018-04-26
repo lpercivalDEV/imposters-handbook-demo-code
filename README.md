@@ -1,5 +1,5 @@
 # imposters-handbook-demo-code
-This is a repo for the demo codes found in The Imposter's Handbook by Rob Conery 
+This is a repo for the demo codes I worked through that are found in The Imposter's Handbook by Rob Conery 
 
 
 You can find the github resources for the book here:
